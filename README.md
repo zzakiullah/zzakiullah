@@ -1,6 +1,6 @@
 ## Hi, I'm Zulaikha 👋
 
-I'm currently studying Electrical Engineering at the University of Waterloo.
+I make stuff
 
 <!--
 **zzakiullah/zzakiullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
